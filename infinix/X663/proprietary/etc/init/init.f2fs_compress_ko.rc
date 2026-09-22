@@ -1,0 +1,2 @@
+on boot
+    insmod /vendor/lib/modules/f2fs_compress.ko
