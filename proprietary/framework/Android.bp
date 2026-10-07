@@ -1,0 +1,26 @@
+// Auto-generated prebuilt JARs via Colab Extractor
+
+java_import {
+    name: "mediatek-common",
+    jars: ["mediatek-common.jar"],
+}
+
+java_import {
+    name: "mediatek-framework",
+    jars: ["mediatek-framework.jar"],
+}
+
+java_import {
+    name: "mediatek-ims-common",
+    jars: ["mediatek-ims-common.jar"],
+}
+
+java_import {
+    name: "mediatek-telecom-common",
+    jars: ["mediatek-telecom-common.jar"],
+}
+
+java_import {
+    name: "mediatek-telephony-common",
+    jars: ["mediatek-telephony-common.jar"],
+}
